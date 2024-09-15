@@ -1,0 +1,21 @@
+{
+    "members": [
+        {
+            "name": "Harry Potter",
+            "age": 11,
+            "occupation": "Student"
+        },
+        {
+            "name": "Albus Dumbledore",
+            "age": 110,
+            "occupation": "Headmaster"
+        },
+        {
+            "name": "Minerva McGonagall",
+            "age": 88,
+            "occupation": "Professor"
+        }
+    ],
+    "school": "Hogwarts",
+    "location": "Schotland"
+}
